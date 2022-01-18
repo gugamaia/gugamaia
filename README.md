@@ -1,5 +1,5 @@
-### Olá, eu sou o Gustavo Maia, desde Abril de 2021 estudo Análise e Desenvolvimento de Sistemas. Sou facinado pelo mundo da tecnologia!
-- 🖥🖋 Acadêmico: 2ª fase em Analise de sistemas (ADS).
+### Olá, eu sou o Gustavo Maia. Sou facinado pelo mundo da tecnologia!
+- 🖥🖋 Acadêmico: 2ª fase em Analise e Desenvolvimento de Sistemas (ADS).
 
 ###Você pode me encontrar
 <div align="center"> 
