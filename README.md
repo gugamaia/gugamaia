@@ -1,5 +1,7 @@
 ### Olá, eu sou o Gustavo Maia. Sou facinado pelo mundo da tecnologia!
-- 🖥🖋 Acadêmico: 2ª fase em Analise e Desenvolvimento de Sistemas (ADS).
+- 🖥🖋 Acadêmico: 5ª fase em Analise e Desenvolvimento de Sistemas (ADS);
+- 🖥🖋 DEVinHouse - turma Philips;
+- 🖥🖋 CPDI - 2ª turma.
 
 ###Você pode me encontrar
 <div align="center"> 
