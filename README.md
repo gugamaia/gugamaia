@@ -1,6 +1,8 @@
 ### Olá, eu sou o Gustavo Maia. Sou facinado pelo mundo da tecnologia!
 - 🖥🖋 Pós Graduando em Desenvolvimento de Software Automotivo (UNISenai);
 - 🖥🖋 Analise e Desenvolvimento de Sistemas (ADS);
+- 🖥🖋 Processos Gerenciais;
+- 🖥🖋 SCTEC - Back End Node - turma 1;
 - 🖥🖋 DEVinHouse - turma Philips;
 - 🖥🖋 CPDI (Lua and HTML) - 2ª turma.
 
