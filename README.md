@@ -1,3 +1,38 @@
+# Olá, sou Gustavo Maia 👋
+
+Desenvolvedor Backend / Fullstack focado na construção de sistemas robustos, escaláveis e com alta integridade de dados. Atualmente concluindo pós-graduação em Desenvolvimento de Software Automotivo (SENAI) e atuando com Node.js, TypeScript e PostgreSQL.
+
+- 🔭 **Foco atual:** Arquitetura de software, resolução de concorrência e testes automatizados.
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas | Pós em Dev. de Software Automotivo.
+- 💬 **Diferenciais:** Experiência prática em ambiente B2B, análise de dados com SQL, SLA/ITSM e inglês avançado.
+- 📬 **Contato:** [LinkedIn](https://linkedin.com/in/seu-perfil) | [Email](mailto:seu-email@dominio.com)
+
+---
+
+### 🛠️ Stacks e Tecnologias
+**Languages & Runtimes:** TypeScript, Node.js, Go, SQL  
+**Frameworks & ORMs:** NestJS, Express, React, TypeORM  
+**Databases & Infra:** PostgreSQL, Docker, CI/CD (GitHub Actions)  
+**Testing & Tools:** Vitest, Jest, Git, Linux  
+
+---
+
+### 🚀 Projeto em Destaque
+#### [MedClinic API](https://github.com/gugamaia/medclinic-api) — Backend de Gestão Médica
+REST API desenvolvida com **NestJS**, **TypeScript** e **PostgreSQL** focada em regras de negócio complexas e concorrência de dados.
+
+- 🔒 **Concorrência:** Tratamento de *race conditions* no agendamento via **Lock Pessimista** no TypeORM.
+- 🛡️ **Segurança & RBAC:** Controle de acesso por perfil e validação de vínculo médico-paciente em prontuários.
+- 🧪 **Qualidade & CI/CD:** Cobertura de testes unitários >80% com Vitest, containerização via Docker e pipeline no GitHub Actions.
+- 📐 **Arquitetura:** Histórico limpo com **Conventional Commits** e 6 Pull Requests independentes.
+
+---
+
+### 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gugamaia&show_icons=true&theme=radium)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gugamaia&layout=compact&theme=radium)
+
+<!--
 ### Olá, eu sou o Gustavo Maia. Sou facinado pelo mundo da tecnologia!
 - 🖥🖋 Pós Graduando em Desenvolvimento de Software Automotivo (UNISenai);
 - 🖥🖋 Analise e Desenvolvimento de Sistemas (ADS);
@@ -26,20 +61,20 @@
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
+
+<div align="center">
+  <a href="https://github.com/gugamaia">
+  <img height="180em" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
+  -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugamaia&layout=compact&langs_count=7&theme=discord_old_blurple&include_all_commits=true&count_private=true"/> -->
+<!--  </div> -->
+
 <!-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PokeAPI](https://img.shields.io/badge/PokeAPI-FFCB05?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 <br/><br/> -->
-
-<div align="center">
-  <a href="https://github.com/gugamaia">
-  <img height="180em" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugamaia&layout=compact&langs_count=7&theme=discord_old_blurple&include_all_commits=true&count_private=true"/> -->
-</div>
-  
-  
 
   <!--
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="450px" align="right" alt="Computador"> -->
